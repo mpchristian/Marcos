@@ -45,7 +45,7 @@ const questions = [
   },
   {
     id: 4,
-    ref: 'Mc 1.5',
+    ref: ['Mc 1.5'],
     question: 'Onde batizava João Batista?',
     correct_answer: 'No rio Jordão',
     incorrect_answers: [
@@ -56,7 +56,7 @@ const questions = [
   },
   {
     id: 5,
-    ref: 'Mc 1.4',
+    ref: ['Mc 1.4'],
     question: 'O que era preciso fazer para ser batizado por João Batista?',
     correct_answer: 'Confessar pecados',
     incorrect_answers: [
@@ -67,7 +67,7 @@ const questions = [
   },
   {
     id: 6,
-    ref: 'Mc 1.6',
+    ref: ['Mc 1.6'],
     question: 'Como João Batista se vestia?',
     correct_answer: 'Com vestes feitas de pelos de camelos e cinto de couro',
     incorrect_answers: [
@@ -78,7 +78,7 @@ const questions = [
   },
   {
     id: 7,
-    ref: 'Mc 1.6',
+    ref: ['Mc 1.6'],
     question: 'De quê João Batista de alimentava?',
     correct_answer: 'Gafanhotos e mel silvestre',
     incorrect_answers: [
@@ -89,7 +89,7 @@ const questions = [
   },
   {
     id: 8,
-    ref: 'Mc 1.9',
+    ref: ['Mc 1.9'],
     question: 'De onde veio Jesus quando chegou para ser batizado?',
     correct_answer: 'Galileia',
     incorrect_answers: [
@@ -100,7 +100,7 @@ const questions = [
   },
   {
     id: 9,
-    ref: 'Mc 1.9',
+    ref: ['Mc 1.9'],
     question: 'Onde Jesus foi batizado?',
     correct_answer: 'No Rio Jordão',
     incorrect_answers: [
@@ -111,7 +111,7 @@ const questions = [
   },
   {
     id: 10,
-    ref: 'Mc 1.10',
+    ref: ['Mc 1.10'],
     question: 'Quem batizou Jesus?',
     correct_answer: 'João Batista',
     incorrect_answers: [
@@ -122,7 +122,7 @@ const questions = [
   },
   {
     id: 11,
-    ref: 'Mc 1.10',
+    ref: ['Mc 1.10'],
     question: 'Quando o Espírito desceu como uma pomba sobre Cristo?',
     correct_answer: 'Logo após Jesus ser batizado, ao sair da água',
     incorrect_answers: [
@@ -133,7 +133,7 @@ const questions = [
   },
   {
     id: 12,
-    ref: 'Mc 1.12-13',
+    ref: ['Mc 1.12-13'],
     question: 'Quando Jesus foi para o lugar onde foi tentado por Satanás',
     correct_answer: 'Após o seu batismo',
     incorrect_answers: [
@@ -144,7 +144,7 @@ const questions = [
   },
   {
     id: 13,
-    ref: 'Mc 1.12',
+    ref: ['Mc 1.12'],
     question: 'Como Jesus foi para o lugar onde foi tentado por Satanás?',
     correct_answer: 'O Espírito o impeliu',
     incorrect_answers: [
@@ -155,7 +155,7 @@ const questions = [
   },
   {
     id: 14,
-    ref: 'Mc 1.12-13',
+    ref: ['Mc 1.12-13'],
     question: 'Qual foi o lugar em que Jesus foi tentado por Satanás e quanto tempo ficou lá?',
     correct_answer: 'Deserto, onde permaneceu por 40 dias',
     incorrect_answers: [
@@ -166,7 +166,7 @@ const questions = [
   },
   {
     id: 15,
-    ref: 'Mc 1.13',
+    ref: ['Mc 1.13'],
     question: 'Quem não esteve com Cristo no lugar onde foi tentado?',
     correct_answer: 'João Batista',
     incorrect_answers: [
@@ -177,7 +177,7 @@ const questions = [
   },
   {
     id: 16,
-    ref: 'Mc 1.14',
+    ref: ['Mc 1.14'],
     question: 'Depois de João Batista ter sido preso, para onde foi Jesus pregar?',
     correct_answer: 'Para a Galileia',
     incorrect_answers: [
@@ -188,7 +188,7 @@ const questions = [
   },
   {
     id: 17,
-    ref: 'Mc 1.16',
+    ref: ['Mc 1.16'],
     question: 'Quais foram os dois primeiros discípulos de Jesus e sua profissão?',
     correct_answer: 'Simão e André, eram pescadores',
     incorrect_answers: [
@@ -199,7 +199,7 @@ const questions = [
   },
   {
     id: 18,
-    ref: 'Mc 1.19',
+    ref: ['Mc 1.19'],
     question: 'Jesus chamou Tiago e João para serem seus discípulos depois de chamar a Simão?',
     correct_answer: 'Sim',
     incorrect_answers: [
@@ -210,7 +210,7 @@ const questions = [
   },
   {
     id: 19,
-    ref: 'Mc 1.19-20',
+    ref: ['Mc 1.19-20'],
     question: 'Quem era o pai de Tiago e João, discípulos de Jesus?',
     correct_answer: 'Zebedeu',
     incorrect_answers: [
@@ -221,7 +221,7 @@ const questions = [
   },
   {
     id: 20,
-    ref: 'Mc 1.20',
+    ref: ['Mc 1.20'],
     question: 'O que faziam Tiago e João no momento em que foram chamados por Jesus?',
     correct_answer: 'Estavam consertando redes',
     incorrect_answers: [
@@ -232,7 +232,7 @@ const questions = [
   },
   {
     id: 21,
-    ref: 'Mc 1.21',
+    ref: ['Mc 1.21'],
     question: 'Depois de escolher os discípulos para onde foi Jesus',
     correct_answer: 'Cafarnaum',
     incorrect_answers: [
@@ -243,7 +243,7 @@ const questions = [
   },
   {
     id: 22,
-    ref: 'Mc 1.22',
+    ref: ['Mc 1.22'],
     question: 'Por que as pessoas se maravilhavam com o ensino de Jesus?',
     correct_answer: 'Porque ensinava como quem tem autoridade e não como os escribas',
     incorrect_answers: [
@@ -254,7 +254,7 @@ const questions = [
   },
   {
     id: 23,
-    ref: 'Mc 1.24',
+    ref: ['Mc 1.24'],
     question: 'Podem os demônios confessar que Jesus é o Santo de Deus?',
     correct_answer: 'Sim',
     incorrect_answers: [
@@ -265,7 +265,7 @@ const questions = [
   },
   {
     id: 24,
-    ref: 'Mc 1.30',
+    ref: ['Mc 1.30'],
     question: 'A sogra de qual discípulo foi curada por Jesus em Cafarnaum?',
     correct_answer: 'Pedro',
     incorrect_answers: [
@@ -276,7 +276,7 @@ const questions = [
   },
   {
     id: 25,
-    ref: 'Mc 1.31',
+    ref: ['Mc 1.31'],
     question: 'O que fez a sogra de Pedro após ser curada por Jesus?',
     correct_answer: 'Passou a servir a Jesus e aos discípulos',
     incorrect_answers: [
@@ -287,7 +287,7 @@ const questions = [
   },
   {
     id: 26,
-    ref: 'Mc 1.31',
+    ref: ['Mc 1.31'],
     question: 'Do que padecia a sogra de Pedro?',
     correct_answer: 'Febre',
     incorrect_answers: [
@@ -297,58 +297,56 @@ const questions = [
     ],
   },
   {
-    id: 0,
-    ref: 'Mc ',
-    question: '',
-    correct_answer: '',
+    id: 27,
+    ref: ['Mc 1.34'],
+    question: 'Por que Jesus não permitia que os demônios falassem?',
+    correct_answer: 'Porque sabiam quem ele era',
     incorrect_answers: [
-      '',
-      '',
-      '',
+      'Não se brinca com o inimigo',
+      'Porque o diabo é o pai da mentira',
+      'Porque não tinham nada de importante a dizer',
     ],
   },
   {
-    id: 0,
-    ref: 'Mc ',
-    question: '',
-    correct_answer: '',
+    id: 28,
+    ref: ['Mc 1.44-45'],
+    question: 'Quem foi curado por Jesus e o desobedeceu logo em seguida?',
+    correct_answer: 'Um leproso',
     incorrect_answers: [
-      '',
-      '',
-      '',
+      'O endemoninhado geraseno',
+      'Uma mulher com hemorragia',
+      'Um possesso por espírito surdo e mudo',
     ],
   },
   {
-    id: 0,
-    ref: 'Mc ',
-    question: '',
-    correct_answer: '',
+    id: 29,
+    ref: ['Mc 1.44'],
+    question: 'Após ser curado por Jesus, o leproso deveria:',
+    correct_answer: 'Se mostrar ao sacerdote e fazer sacrifícios segundo Moisés ordenou',
     incorrect_answers: [
-      '',
-      '',
-      '',
+      'Contar a todos da sua casa o que Jesus lhe fizera',
+      'Se mostrar ao sacerdote somente, os sacrifícios foram abolidos por Jesus',
+      'Se tornar um sacerdote e fazer sacrifícios segundo Moisés ordenou',
     ],
   },
   {
-    id: 0,
-    ref: 'Mc ',
-    question: '',
-    correct_answer: '',
+    id: 30,
+    ref: ['Mc 1.45'],
+    question: 'Qual foi a consequência da desobediência do leproso que foi curado por Jesus?',
+    correct_answer: 'Jesus não podia entrar publicamente em qualquer cidade',
     incorrect_answers: [
-      '',
-      '',
-      '',
+      'Jesus não podia entrar em lugares ermos',
+      'Jesus não era bem-vindo em qualquer cidade',
+      'Multidões o seguiam para quaisquer lugar que ele fosse',
     ],
   },
   {
-    id: 0,
-    ref: 'Mc ',
-    question: '',
-    correct_answer: '',
+    id: 31,
+    ref: ['Mc 1.45-2.4'],
+    question: 'O paralítico teve desceu pelo teto porque a casa estava muito cheia, porque o leproso contou a todos que Jesus o curara. Esta afirmação é verdadeira ou falsa?',
+    correct_answer: 'Verdadeira',
     incorrect_answers: [
-      '',
-      '',
-      '',
+      'Falsa',
     ],
   },
   {
