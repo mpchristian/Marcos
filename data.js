@@ -342,15 +342,6 @@ const questions = [
   },
   {
     id: 31,
-    ref: ['Mc 1.45-2.4'],
-    question: 'O paralítico teve desceu pelo teto porque a casa estava muito cheia, porque o leproso contou a todos que Jesus o curara. Esta afirmação é verdadeira ou falsa?',
-    correct_answer: 'Verdadeira',
-    incorrect_answers: [
-      'Falsa',
-    ],
-  },
-  {
-    id: 0,
     ref: 'Mc ',
     question: '',
     correct_answer: '',
