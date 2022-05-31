@@ -810,37 +810,4 @@ const questions = [
       'Pescava',
     ],
   },
-  {
-    id: 69,
-    ref: '',
-    question: '',
-    correct_answer: '',
-    incorrect_answers: [
-      '',
-      '',
-      '',
-    ],
-  },
-  {
-    id: 69,
-    ref: '',
-    question: '',
-    correct_answer: '',
-    incorrect_answers: [
-      '',
-      '',
-      '',
-    ],
-  },
-  {
-    id: 69,
-    ref: '',
-    question: '',
-    correct_answer: '',
-    incorrect_answers: [
-      '',
-      '',
-      '',
-    ],
-  },
 ];
