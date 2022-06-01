@@ -1,11 +1,13 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { saveName } from '../store/user';
+import { useHistory } from 'react-router-dom';
 
 function Login() {
 
   const [name, setName] = useState('');
   const dispatch = useDispatch();
+  const history = useHistory();
 
   return (
     <div className="App">
@@ -25,6 +27,7 @@ function Login() {
             onClick={(e) => {
               e.preventDefault();
               dispatch(saveName(name));
+              history.push('/allquestions')
             } }
           >
             Jogar
